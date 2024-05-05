@@ -2,7 +2,7 @@
 Source code for Arduino Uno to run tiny house automation system.
 
 To understand how to upload and edit the code, along with adjust any circuitry, please refer to the tutorial reviewing how to operate the tiny house linked here:
-LINK TO VIDEO
+https://drive.google.com/drive/folders/1hhgj3fdYt3qB4vYfdIGhF23wtN9IIXTG?usp=sharing
 
 All code has been sufficiently commented so that any adjustments can be made locally and uploaded to the Arduino Microcontroller.
 
